@@ -1,2 +1,2 @@
 # Anaconda-game-
-Anaconda game by Prashant please pla responsible and take rest.
+Anaconda game by Prashant please play responsible and take rest.
